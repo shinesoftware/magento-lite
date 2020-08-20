@@ -106,7 +106,6 @@
         "magento/module-fedex": "*",
         "magento/module-marketplace": "*",
         "magento/module-multishipping": "*",
-        "magento/module-captcha": "*",
         "magento/module-persistent": "*",
         "magento/module-catalog-rule-configurable": "*",
         "magento/module-google-adwords": "*",
