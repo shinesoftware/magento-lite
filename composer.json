@@ -84,7 +84,7 @@
         "magento/module-inventory-low-quantity-notification-api": "*",
         "magento/module-inventory-multi-dimensional-indexer-api": "*",
         "magento/module-inventory-product-alert": "*",
-        "magento/module-inventory-reservations": "*",
+        "magento/module-inventory-reservations": "*", 
         "magento/module-inventory-reservations-api": "*",
         "magento/module-inventory-reservation-cli": "*",
         "magento/module-inventory-sales": "*",
