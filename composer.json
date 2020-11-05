@@ -2,7 +2,7 @@
     "name": "shinesoftware/magento-lite",
     "description": "Remove various packages from Magento",
     "require": {
-        "magento/product-community-edition": ">=2.3.5-p1"
+        "magento/product-community-edition": "~2.3.5-p1 ~2.3.5-p2 ~2.3.6"
     },
     "replace": {
         "magento/module-adobe-ims": "*",
