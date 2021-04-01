@@ -40,7 +40,6 @@
         "magento/module-tax-graph-ql": "*",
         "magento/module-url-rewrite-graph-ql": "*",
         "magento/module-weee-graph-ql": "*",
-        "magento/module-braintree-graph-ql": "*",
         "magento/module-authorizenet-graph-ql": "*",
         "magento/module-directory-graph-ql": "*",
         "magento/module-paypal-graph-ql": "*",
@@ -97,7 +96,6 @@
 
         "magento/google-shopping-ads": "*",
         "magento/module-admin-analytics": "*",
-        "magento/module-braintree": "*",
         "magento/module-authorizenet": "*",
         "magento/module-fedex": "*",
         "magento/module-marketplace": "*",
@@ -123,7 +121,6 @@
         "dotmailer/dotmailer-magento2-extension-package": "*",
         "yotpo/magento2-module-yotpo-reviews": "*",
         "yotpo/magento2-module-yotpo-reviews-bundle": "*",
-        "braintree/braintree_php": "*",
         "astock/stock-api-libphp": "*",
         "klarna/module-kp": "*",
         "klarna/module-ordermanagement": "*",
